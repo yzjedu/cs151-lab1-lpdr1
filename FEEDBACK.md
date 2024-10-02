@@ -6,27 +6,27 @@
 
 ### Blind Test
 - Passes test case #1
-    - **NO**
+    - **YES**
 - Passes test case #2
-    - **NO**
+    - **YES**
 - Passes test case #3
-    - **NO**
+    - **YES**
 - Runs without Python errors
-    - **NO**
+    - **YES**
 - input prompts make sense and are clear
-    - **NO**
+    - **YES**
 - outputs final cost
-    - **NO**
+    - **YES**
 - output of final cost includes words stating what the 
 number - is, such as "final cost is"
-    - **NO**
+    - **YES**
 ### Open Test
 - There is a block of introductory comments at the top
-    - **NO**
+    - **YES**
 - There are comments in the code (do not need to determine if - they are good)
-    - **NO**
+    - **YES**
 - Nothing is typecast to an int during calculation 
-    - **NO**
+    - **YES**
 ### Comments on the grading
 - There is nothing to grade here, may be you forgot to push your assignment
-### Grade: N
+### Grade: E
